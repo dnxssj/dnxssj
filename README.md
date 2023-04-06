@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png](https://imgur.com/gEC5uqi)
+<img src="/header.png" alt="Alt text" title="DNX">
 
 <!--
 **dnxssj/dnxssj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
