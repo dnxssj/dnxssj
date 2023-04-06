@@ -1,6 +1,13 @@
 <img src="/header.png" alt="Alt text" title="DNX">
 
-<!--
+<h3>Welcome to my Github Profile</h3>
+
+<h4>Find me on</h4>
+<p>- Twitter:</p>
+<p>- Instagram:</p>
+<p>- dnxcode.com</p>
+- 
+
 **dnxssj/dnxssj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
