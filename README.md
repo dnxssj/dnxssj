@@ -3,6 +3,4 @@
 
 <h4 aling="center">Find me on</h4>
 
-<p>- Instagram:</p>
-<p>- dnxcode.com</p>
 
